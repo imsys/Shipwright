@@ -416,3 +416,9 @@ xcuserdata/
 !*.xcworkspace/contents.xcworkspacedata
 /*.gcno
 **/xcshareddata/WorkspaceSettings.xcsettings
+
+# Android
+Android/gradle/wrapper/gradle-wrapper.jar
+Android/SDK
+Android/app/jni/SDL
+Android/.gradle
